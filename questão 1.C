@@ -1,3 +1,4 @@
+/* Crie  um  programa  que  escreva  de  1  até  10  em  um  arquivo,  armazenando  um  número  por linha. */
 #include <stdio.h>
 
 int main(void) {
