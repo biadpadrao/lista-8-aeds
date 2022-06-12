@@ -1,3 +1,4 @@
+/* Crie um programa que receba um texto do usuário e grave o texto em um arquivo */
 #include <stdio.h>
 
 int main(void) {
